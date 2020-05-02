@@ -1,0 +1,5 @@
+https://docs.aws.amazon.com/sagemaker/latest/dg/xgboost_hyperparameters.html
+
+https://docs.aws.amazon.com/sagemaker/latest/dg/sagemaker-algo-docker-registry-paths.html
+
+https://sagemaker.readthedocs.io/en/latest/
